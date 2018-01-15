@@ -1,2 +1,5 @@
-# Machine-Learning---Supervised
-Various Implementation for Supervised Machine learning
+# Machine Learning Practises
+
+This repository is dedicated to machine learning using python and python libraries.
+
+Author : Mayank Mishra
