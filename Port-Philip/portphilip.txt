@@ -1,0 +1,25 @@
+Port Phillip Bay Weather
+
+
+Context
+I am a kitefoiler so plan my days around when the wind is blowing. Having this dataset helps me figure out the best time of day and year to go kitefoiling in Melbourne. It also tells me which is the most reliable location.
+
+I hope to eventually to try and use machine learning to forecast the wind.
+
+Content
+Each file contains wind speed, wind gust, wind direction and temperature data. The data is collected at 10 minute internals. Each day and location is a different CSV. This dataset updates once per day.
+
+This dataset has data for seven locations around Victoria
+
+Cerberus (which is actually in Westernport Bay)
+Fawkner Beacon
+Frankston
+Melbourne (Olympic Park)
+Point Wilson
+South Channel Island
+St Kilda
+Acknowledgements
+This date comes from the Australia's Bureau of Meteorology. The raw data comes from: ftp.bom.gov.au/anon/gen/fwo/IDV60920.xml
+
+Inspiration
+Would love to see somebody else use this data to forecast the wind at different locations. Kitefoilers say things like "a southerly in South Channel Island arrives at Fawkner Beacon one hour later". It'd be interesting to dis/prove these myths.
