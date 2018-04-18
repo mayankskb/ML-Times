@@ -1,0 +1,10 @@
+Seinfeld Chronicles
+
+Possible Explorations:
+
+	Train language models on the corpus.
+	Compare the vocabulary with other works on television, film or literature.
+	Find corellation between language complexity and popularity.
+	Train models to generate scripts based on the data.
+	Analyze obscure wods used in the vocabulary of the series.
+	These are just basic examples, sky is the limit.
