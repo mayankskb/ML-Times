@@ -5,7 +5,7 @@ This repository would contains a number of projects that are practised while lea
 It would contain the practice projects from:
 
 1. Analytics Vidya
-2. packt publication Book
+2. Packt Publication Book
 3. Kaggle
 and others............
 
