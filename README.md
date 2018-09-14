@@ -1,4 +1,4 @@
-# Machine Learning Practises
+# ML-Times
 
 This repository is dedicated to `Machine Learning`.
   
