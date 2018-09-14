@@ -4,7 +4,7 @@ This repository is dedicated to `Machine Learning`.
   
 -------------------------------------------------  
   
-Directory Structure  
+<b>Directory Structure</b>  
   
 -------------------------------------------------  
 1. ML-Learning : Contains codes written during learning the concept. contains codes for :  
