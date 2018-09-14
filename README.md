@@ -1,8 +1,11 @@
 # Machine Learning Practises
 
-This repository is dedicated to `Machine Learning`.  
+This repository is dedicated to `Machine Learning`.
+  
 -------------------------------------------------  
+  
 Directory Structure  
+  
 -------------------------------------------------  
 1. ML-Learning : Contains codes written during learning the concept. contains codes for :  
 - Clustering  
