@@ -1,5 +1,5 @@
 # Machine Learning Practises
 
-This repository is dedicated to machine learning using python and python libraries.
+This repository is dedicated to Machine Learning.
 
 Author : Mayank Mishra
